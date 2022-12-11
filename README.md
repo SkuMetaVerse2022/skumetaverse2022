@@ -1,14 +1,8 @@
-# SKU_backup
+# SKU Metaverse 2022 : 성결대학교 미디어소프트웨어학과 2022년 메타버스 수업교실
 
 <hr>
 
 ## gitignore 주의사항
-
-gitignore에 PDF 리더 파일 3개가 ignore되어 있음 주의바람
-
-대상은 아래의 세 파일
-SKU_MetaVerse2022/Assets/Paroxe/PDFRenderer/Plugins/iOS/pdfrenderer.a
-SKU_MetaVerse2022/Assets/Vuplex/WebView/Plugins/Windows/VuplexWebViewChromium/libcef.dll
 
 ## ignore 세부사항
 <hr>

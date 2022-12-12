@@ -79,3 +79,18 @@ crashlytics-build.properties
 /[Aa]ssets/06.Images/UI/LoginBackgroundImage.png
 /[Aa]ssets/TextMesh Pro/Resources/Fonts & Materials/NanumSquare_acB SDF.asset
 /[Aa]ssets/01.Scene/RoomModern/NavMesh.asset
+
+# 저작권 유료에셋 제외
+/[Aa]ssets/Alstra Infinite/
+/[Aa]ssets/Arkham Interactive/
+/[Aa]ssets/BOXOPHOBIC/
+/[Aa]ssets/BrokenVector/
+/[Aa]ssets/FarlandSkies/
+/[Aa]ssets/Low Poly Hexagons/
+/[Aa]ssets/Nicrom/
+/[Aa]ssets/Paroxe/
+/[Aa]ssets/SimpleFX/
+/[Aa]ssets/Tale Monster Cube Env/
+/[Aa]ssets/Tarbo-FantasyVillage/
+/[Aa]ssets/TetraArts/
+/[Aa]ssets/WhiteCity/
